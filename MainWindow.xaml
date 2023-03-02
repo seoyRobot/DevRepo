@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <local:ExperiEditor x:Name="edtiro" BorderBrush="Red" BorderThickness="1" Width="200" MinWidth="100" MaxWidth="500" Height="400" MaxHeight="500" MinHeight="100" />
     </Grid>
 </Window>
